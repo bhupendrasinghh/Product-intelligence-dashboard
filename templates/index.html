@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Smart Dashboard</title>
+</head>
+<body>
+
+<h1>📊 Smart Product Intelligence Dashboard</h1>
+
+<h2>Insights</h2>
+<ul>
+{% for i in insights %}
+<li>{{ i }}</li>
+{% endfor %}
+</ul>
+
+<h2>All Products</h2>
+{{ table | safe }}
+
+<br><br>
+
+<a href="/top-products">Top Products</a> |
+<a href="/high-price">High Price Products</a>
+
+</body>
+</html>

@@ -1,0 +1,21 @@
+1. Revenue by Source
+
+The analysis shows that products coming from the API generate more consistent and higher revenue compared to the scraped data. The scraped data shows more variation in revenue values. This suggests that API-based products are more stable and perform better in terms of sales.
+
+⸻
+
+2. Price Distribution
+
+The histogram shows that most of the products are in the low to medium price range. Only a small number of products fall into the high price category. This indicates that the market is mainly focused on affordable products, and customers prefer items that are reasonably priced.
+
+⸻
+
+3. Rating vs Price
+
+The scatter plot shows that there is no strong relationship between product price and rating. Some low-priced products have high ratings, while some expensive products have average or lower ratings. This means that higher price does not always mean better quality.
+
+⸻
+
+Final Insight
+
+Overall, the data shows that affordable products dominate the market, API-based products perform better in terms of revenue, and product quality is not directly related to price. This suggests that customers focus more on value and satisfaction rather than just price.
